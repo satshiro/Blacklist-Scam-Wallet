@@ -9,3 +9,4 @@ Here there are all the scam wallet that [Decripto.org](https://decripto.org/) fo
   - TRT -> https://decripto.org/the-rock-trading-cosa-ce-dietro-il-crollo-cosa-abbiamo-scoperto-con-lanalisi-on-chain-esclusiva/
   - TRT 2 -> https://decripto.org/the-rock-trading-abbiamo-trovato-il-tesoretto-17-bitcoin-e-un-grosso-wallet-dubbio-esclusiva-2/
   - Blackfort -> https://decripto.org/blackfort-e-il-suo-incredibile-fiume-di-soldi-oltre-40-milioni-su-un-solo-wallet/
+  - FVP Trade -> https://decripto.org/fvp-trade-abbiamo-individuato-oltre-130-milioni-rubati-ecco-i-wallet-e-gli-exchange-coinvolti/
