@@ -1,5 +1,5 @@
 # Scam_Wallet
-Here there are all the scam wallet that [Decripto.org](https://decripto.org/) found during the investigations.
+Here there are all the scam wallet that [Decripto.org](https://decripto.org/) found during the investigations, involved in the scam.
 
 # Links
   - CMG -> https://decripto.org/truffa-cmg-ecco-dove-sono-i-soldi-individuati-almeno-10-milioni/
