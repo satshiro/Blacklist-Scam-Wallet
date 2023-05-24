@@ -6,4 +6,4 @@ Here there are all the scam wallet that [Decripto.org](https://decripto.org/) fo
   - UEFA -> https://decripto.org/truffa-uefa-football-abbiamo-scoperto-dove-sono-i-soldi-rubati/
   - Money Dust -> https://decripto.org/exclusive-investigation-money-dust-how-they-are-emptying-your-wallets-metamask-no-comment/
   - Volt Trade -> https://decripto.org/come-funziona-uno-scam-analisi-on-chain-di-volt-trade-un-ponzi-da-manuale-esclusiva/
-  - TRT -> https://decripto.org/the-rock-trading-abbiamo-trovato-il-tesoretto-17-bitcoin-e-un-grosso-wallet-dubbio-esclusiva-2/
+  - TRT 2 -> https://decripto.org/the-rock-trading-abbiamo-trovato-il-tesoretto-17-bitcoin-e-un-grosso-wallet-dubbio-esclusiva-2/
