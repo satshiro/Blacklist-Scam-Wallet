@@ -1,5 +1,6 @@
 # Scam_Wallet
 Here there are all the scam wallet that [Decripto.org](https://decripto.org/) found during the investigations, involved in the scam.
+This Blacklist will include all the wallet involved in scams analyzed by decripto.org
 
 # Links
   - CMG -> https://decripto.org/truffa-cmg-ecco-dove-sono-i-soldi-individuati-almeno-10-milioni/
