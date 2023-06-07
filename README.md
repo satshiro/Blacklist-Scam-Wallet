@@ -11,3 +11,4 @@ This Blacklist will include all the wallet involved in scams analyzed by decript
   - TRT 2 -> https://decripto.org/the-rock-trading-abbiamo-trovato-il-tesoretto-17-bitcoin-e-un-grosso-wallet-dubbio-esclusiva-2/
   - Blackfort -> https://decripto.org/blackfort-e-il-suo-incredibile-fiume-di-soldi-oltre-40-milioni-su-un-solo-wallet/
   - FVP Trade -> https://decripto.org/fvp-trade-abbiamo-individuato-oltre-130-milioni-rubati-ecco-i-wallet-e-gli-exchange-coinvolti/
+  - UOC United Online Cinema -> https://decripto.org/uoc-attenzione-alla-truffa-del-cinema-analisi-esclusiva/
